@@ -1,3 +1,11 @@
+# Ushbu loyiha React kutubxonasida qurildi.
+
+## Loyiha: (Foods) Taomlar haqida bo'lib unda siz taomlarga buyurtma berishingiz yoki tayyorlash yo'riqnomasi bilan tanishishingiz mumkin;
+
+## Loyihaning maqsadi: React componentlari, react-router-dom@6 bilan ishlashni mustahkamlash;
+
+# <a href="https://food-website-in-reactjs-with-routerdo.netlify.app">Loyiha website ini ko'rish</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
